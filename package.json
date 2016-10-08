@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "nodejs hello world testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://udx58299@github.com/udx58299/hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udx58299/hello-world/issues"
+  },
+  "homepage": "https://github.com/udx58299/hello-world#readme",
+  "dependencies" : {
+	  "express" : "4.14.0"
+  }
+}
